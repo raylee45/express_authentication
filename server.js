@@ -29,7 +29,7 @@ app.use(passport.initialize());      // Initialize passport
 app.use(passport.session());         // Add a session
 
 app.use((req, res, next) => {
-  conosle.log(`res locals >>>`, res.locals);
+  console.log(`res locals >>>`, res.locals);
   res.locals.alerts = req.flash();
   res.locals.currentUser = req.user;
   next();
