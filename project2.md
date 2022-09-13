@@ -11,7 +11,7 @@ Fork & Clone this repo.
 - [ ] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
- 1. Chat app. This app will allow users to chat with each other and send each other messages. API: https://getstream.io/chat/?utm_source=youtube&utm_medium=video_episode&utm_content=developer&utm_campaign=CodewithAniaKub%C3%B3w_Oct2021_ChatAPI
+ 1. Dating/Chat app. This app will allow users to chat with each other that they match and send each other messages. API: https://www.mongodb.com/atlas?utm_campaign=ania_kubow&utm_source=youtube&utm_medium=influencers&utm_term=atlas&utm_content=tinder_clone
  
  2. Music sharing app. This app will allow users to share songs that are on their favorite playlists and current trendy songs. API: https://developer.spotify.com/documentation/web-api/
 
