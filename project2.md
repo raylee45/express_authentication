@@ -11,11 +11,11 @@ Fork & Clone this repo.
 - [ ] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. Home Styling/Decor app. This app will allow people to post the aesthetics of house decor/layouts. People can share their unique way of styling a house/layout. They can communicate/post/comment on furniture/home items and 'like' items/posts so people can see what's popular.
+ 1. Chat app. This app will allow users to chat with each other and send each other messages. API: https://getstream.io/chat/?utm_source=youtube&utm_medium=video_episode&utm_content=developer&utm_campaign=CodewithAniaKub%C3%B3w_Oct2021_ChatAPI
+ 
+ 2. Music sharing app. This app will allow users to share songs that are on their favorite playlists and current trendy songs. API: https://developer.spotify.com/documentation/web-api/
 
-2. Training app. It will provide workout tips/guides for the people that sign up. Not only can they sign up to see guides, but people can thumbs up on the posts/workout routines so people know how credible or liked that routine is. People can comment and share their thoughts on the posts. People can post to ask questions, etc.
-
-3. Life Hacks app. This app will allow users to post about their knowledge on some life hacks or tips about life, which were never taught in school! Life hacks such as how to cut watermelons the fastest way, deal with insurances, how to buy a car, how to pay taxes, etc. People can post/comment/share/'like' to develop the community even more.
+ 3. Meme sharing app. This app will allow users to share memes that they find amusing or worthy of sharing. Whether it be funny memes, or daily life relatable topics, it has it all. API: https://imgflip.com/api
 ---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
