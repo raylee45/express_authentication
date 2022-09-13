@@ -11,11 +11,11 @@ Fork & Clone this repo.
 - [ ] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
- 1. Dating/Chat app. This app will allow users to chat with each other that they match and send each other messages. API: https://www.mongodb.com/atlas?utm_campaign=ania_kubow&utm_source=youtube&utm_medium=influencers&utm_term=atlas&utm_content=tinder_clone
- 
- 2. Music sharing app. This app will allow users to share songs that are on their favorite playlists and current trendy songs. API: https://developer.spotify.com/documentation/web-api/
+ 1. Music sharing app. This app will allow users to share songs that are on their favorite playlists and current trendy songs. API: https://developer.spotify.com/documentation/web-api/
 
- 3. Meme sharing app. This app will allow users to share memes that they find amusing or worthy of sharing. Whether it be funny memes, or daily life relatable topics, it has it all. API: https://imgflip.com/api
+ 2. Meme sharing app. This app will allow users to share memes that they find amusing or worthy of sharing. Whether it be funny memes, or daily life relatable topics, it has it all. API: https://imgflip.com/api
+
+3. Inspiration app. This app will allow people to share inspirational quotes along with whatever they want to inspire others with stories or self experience. API: https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373
 ---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
